@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello master World!\n";
+
+    std::cout << "third branch\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
