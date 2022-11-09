@@ -6,12 +6,12 @@
 int main()
 {
 
-    std::cout << "Hello hub World!\n";
+    std::cout << "Hello Rocal hub World!\n";
 
-    std::cout << "Hello master World!\n";
+    std::cout << "Hello Rocal master World!\n";
 
 
-    std::cout << "third branch\n";
+    std::cout << "third Rocal branch\n";
 
 
 }
